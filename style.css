@@ -1,9 +1,10 @@
+<style>
 .button {
   display: inline-block;
   border-radius: 4px;
   background-color: #f4511e;
   border: none;
-  color: blue;
+  color: #FFFFFF;
   text-align: center;
   font-size: 28px;
   padding: 20px;
@@ -36,6 +37,5 @@
 .button:hover span:after {
   opacity: 1;
   right: 0;
-  
- <button class="button" style="vertical-align:middle"><span>Hover </span></button>
 }
+</style>
